@@ -106,24 +106,24 @@ function draw() {
   block12.display();
   block13.display();
   block14.display();
-  fill("yellow");  
+  fill(255,233,37);  
   block15.display();
   block16.display();
   block17.display();
   block18.display();
-  fill("orange");  
+  fill(251,127,48);  
   block19.display();
   block20.display();
   fill("red");
   block21.display();
 
-  fill("yellow");
+  fill(255,233,37);
   blocks1.display();
   blocks2.display();
   blocks3.display();
   blocks4.display();
   blocks5.display();
-  fill("orange");
+  fill(251,127,48);
   blocks6.display();
   blocks7.display();
   blocks8.display();
